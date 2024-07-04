@@ -2,6 +2,8 @@
 
 Managing users on a Unix-like system can become a complex task, especially when dealing with large-scale deployments. Automating this process can save time and reduce errors. In this article, we’ll dive into a Bash script designed for automated user management, including user creation, group assignment, and password management. This script ensures proper logging and secure password storage, making it an ideal solution for SysOps engineers.
 
+
+
 ### Overview of Script
 
 The script performs the following tasks:
